@@ -14,4 +14,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0184-department-highest-salary](https://github.com/ariha1982/LeetCode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ariha1982/LeetCode/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/ariha1982/LeetCode/tree/master/0262-trips-and-users) |
+| [0626-exchange-seats](https://github.com/ariha1982/LeetCode/tree/master/0626-exchange-seats) |
 <!---LeetCode Topics End-->
